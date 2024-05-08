@@ -42,7 +42,7 @@ To execute the tests, you can use a TestNG XML file. Follow these steps:
 Open the testng.xml file located in the project root directory.
 Configure the TestNG suite file according to your test requirements, including the test classes or test groups you want to run.
 
-The tests will run using the Rest Assured framework and generate test reports in the `target/allure-results` directory.
+The tests will run using the Rest Assured framework and generate test reports in the `allure-results` directory.
 
 ## Generating Allure Reports
 
